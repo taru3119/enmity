@@ -54,11 +54,11 @@
         "#ffffff"
       ],
       "BACKGROUND_TERTIARY": [
-        "#161f28",
+        "#00090b",
         "#e3e5e8"
       ],
       "BACKGROUND_ACCENT": [
-        "#8dd8e2",
+        "#8de2cf",
         "#747f8d"
       ],
       "BACKGROUND_FLOATING": [
@@ -66,7 +66,7 @@
         "#FFFFFF"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-        "#161f28",
+        "#00090b",
         "#f8f9f9"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
