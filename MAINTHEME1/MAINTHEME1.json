@@ -10,123 +10,93 @@
     ],
     "theme_color_map": {
       "HEADER_PRIMARY": [
-        "#ffffff",
-        "#161f28"
+        "#ffffff"
       ],
       "HEADER_SECONDARY": [
-        "#c8c8c8",
-        "#4f5660"
+        "#c8c8c8"
       ],
       "TEXT_NORMAL": [
-        "rgb(201, 209, 217)",
-        "#2e3338"
+        "rgb(201, 209, 217)"
       ],
       "TEXT_MUTED": [
-        "rgb(139, 148, 158)",
-        "#747f8d"
+        "rgb(139, 148, 158)"
       ],
       "INTERACTIVE_NORMAL": [
-        "rgb(139, 148, 158)",
-        "#4f5660"
+        "rgb(139, 148, 158)"
       ],
       "INTERACTIVE_HOVER": [
-        "#dcddde",
-        "#2e3338"
+        "#dcddde"
       ],
       "INTERACTIVE_ACTIVE": [
-        "#ffffff",
-        "#060607"
+        "#ffffff"
       ],
       "INTERACTIVE_MUTED": [
-        "rgb(76, 82, 88)",
-        "#c7ccd1"
+        "rgb(76, 82, 88)"
       ],
       "BACKGROUND_PRIMARY": [
-        "rgb(9, 12, 16)",
-        "#ffffff"
+        "rgb(9, 12, 16)"
       ],
       "BACKGROUND_SECONDARY": [
-        "rgb(13, 17, 23)",
-        "#f2f3f5"
+        "rgb(13, 17, 23)"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-        "rgb(22, 27, 34)",
-        "#ffffff"
+        "rgb(22, 27, 34)"
       ],
       "BACKGROUND_TERTIARY": [
-        "rgb(7, 10, 16)",
-        "#e3e5e8"
+        "rgb(7, 10, 16)"
       ],
       "BACKGROUND_ACCENT": [
-        "rgb(17, 29, 46)",
-        "#747f8d"
+        "rgb(17, 29, 46)"
       ],
       "BACKGROUND_FLOATING": [
-        "rgb(22, 27, 34)",
-        "#FFFFFF"
+        "rgb(22, 27, 34)"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-        "rgb(9, 12, 16)",
-        "#f8f9f9"
+        "rgb(9, 12, 16)"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-        "rgb(13, 17, 23)",
-        "#ffffff"
+        "rgb(13, 17, 23)"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-        "rgb(22, 27, 34)",
-        "#ffffff"
+        "rgb(22, 27, 34)"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-        "rgba(255, 255, 255, 0.02)",
-        "#FFFFFF"
+        "rgba(255, 255, 255, 0.02)"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-        "rgba(33, 38, 45, 0.26)",
-        "hsla(214, 9.9%, 50.4%, 0.08)"
+        "rgba(33, 38, 45, 0.26)"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-        "rgba(33, 38, 45, 0.44)",
-        "hsla(214, 9.9%, 50.4%, 0.16)"
+        "rgba(33, 38, 45, 0.44)"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-        "rgba(33, 38, 45, 0.52)",
-        "hsla(214, 9.9%, 50.4%, 0.24)"
+        "rgba(33, 38, 45, 0.52)"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-        "rgb(33, 38, 45)",
-        "hsla(240, 7.7%, 2.5%, 0.08)"
+        "rgb(33, 38, 45)"
       ],
       "SCROLLBAR_THIN_THUMB": [
-        "#2a1858",
-        "hsla(217, 7.6%, 33.5%, 0.3)"
+        "#2a1858"
       ],
       "SCROLLBAR_THIN_TRACK": [
-        "transparent",
-        "hsla(0, 0%, 0%, 0)"
+        "transparent"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-        "#2a1858",
-        "#cccccc"
+        "#2a1858"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-        "rgba(0, 0, 0, 0.1)",
-        "#f2f2f2"
+        "rgba(0, 0, 0, 0.1)"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-        "#111111",
-        "#ebedef"
+        "#111111"
       ],
       "CHANNELS_DEFAULT": [
-        "#c8c8c8",
-        "#6a7480"
+        "#c8c8c8"
       ],
       "TEXT_LINK": [
-        "rgb(88, 166, 255",
-        "#000002"
+        "rgb(88, 166, 255"
       ],
       "KEYBOARD": [
-        "#000001",
         "#000001"
       ]
     },
