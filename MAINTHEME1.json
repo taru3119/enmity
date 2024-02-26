@@ -150,8 +150,8 @@
       "CHAT_GREY": "#0b101a"
     },
     "background": {
-      "blur": 0.5,
+      "blur": 1,
       "url": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dbqddlgnxuelnrvutnm76qsi/bafkreibjyxjg56264prong6cxjjt4b76xvsxryxzltymkq6eol3vm2lz3y@jpeg",
-      "alpha": 1
+      "alpha": 0.25
     }
   }
