@@ -1,7 +1,7 @@
 {
     "name": "MAINTHEME1",
-    "description": " ",
-    "version": "1.0",
+    "description": "custom wallpaper + github dark colorway",
+    "version": "1.2",
     "authors": [
       {
         "name": "taru3119",
@@ -18,15 +18,15 @@
         "#4f5660"
       ],
       "TEXT_NORMAL": [
-        "#FBFBFB",
+        "rgb(201, 209, 217)",
         "#2e3338"
       ],
       "TEXT_MUTED": [
-        "#afc7e3",
+        "rgb(139, 148, 158)",
         "#747f8d"
       ],
       "INTERACTIVE_NORMAL": [
-        "#80bec6",
+        "rgb(139, 148, 158)",
         "#4f5660"
       ],
       "INTERACTIVE_HOVER": [
@@ -38,43 +38,43 @@
         "#060607"
       ],
       "INTERACTIVE_MUTED": [
-        "#80bec6",
+        "rgb(76, 82, 88)",
         "#c7ccd1"
       ],
       "BACKGROUND_PRIMARY": [
-        "#000001",
+        "rgb(9, 12, 16)",
         "#ffffff"
       ],
       "BACKGROUND_SECONDARY": [
-        "#00030f",
+        "rgb(13, 17, 23)",
         "#f2f3f5"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-        "#00030f",
+        "rgb(22, 27, 34)",
         "#ffffff"
       ],
       "BACKGROUND_TERTIARY": [
-        "#00090b",
+        "rgb(7, 10, 16)",
         "#e3e5e8"
       ],
       "BACKGROUND_ACCENT": [
-        "#8de2cf",
+        "rgb(17, 29, 46)",
         "#747f8d"
       ],
       "BACKGROUND_FLOATING": [
-        "#020306",
+        "rgb(22, 27, 34)",
         "#FFFFFF"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-        "#00090b",
+        "rgb(9, 12, 16)",
         "#f8f9f9"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-        "#000e11",
+        "rgb(13, 17, 23)",
         "#ffffff"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-        "#000e11",
+        "rgb(22, 27, 34)",
         "#ffffff"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
@@ -82,19 +82,19 @@
         "#FFFFFF"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-        "rgba(255, 255, 255, 0.02)",
+        "rgba(33, 38, 45, 0.26)",
         "hsla(214, 9.9%, 50.4%, 0.08)"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-        "rgba(255, 255, 255, 0.03)",
+        "rgba(33, 38, 45, 0.44)",
         "hsla(214, 9.9%, 50.4%, 0.16)"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-        "rgba(255, 255, 255, 0.04)",
+        "rgba(33, 38, 45, 0.52)",
         "hsla(214, 9.9%, 50.4%, 0.24)"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-        "transparent",
+        "rgb(33, 38, 45)",
         "hsla(240, 7.7%, 2.5%, 0.08)"
       ],
       "SCROLLBAR_THIN_THUMB": [
@@ -122,12 +122,12 @@
         "#6a7480"
       ],
       "TEXT_LINK": [
-        "#babfeb",
+        "rgb(88, 166, 255",
         "#000002"
       ],
       "KEYBOARD": [
         "#000001",
-        "#FFFFFF"
+        "#000001"
       ]
     },
     "colours": {
