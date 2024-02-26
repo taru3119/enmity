@@ -70,11 +70,11 @@
         "#f8f9f9"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-        "#000002",
+        "#000e11",
         "#ffffff"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-        "#000002",
+        "#000e11",
         "#ffffff"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
