@@ -61,16 +61,16 @@
         "rgb(22, 27, 34)"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-        "rgba(255, 255, 255, 0.02)"
+        "transparent"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-        "rgba(33, 38, 45, 0.26)"
+        "transparent"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-        "rgba(33, 38, 45, 0.44)"
+        "transparent"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-        "rgba(33, 38, 45, 0.52)"
+        "transparent"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
         "rgb(33, 38, 45)"
@@ -85,7 +85,7 @@
         "#2a1858"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-        "rgba(0, 0, 0, 0.1)"
+        "transparent"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
         "#111111"
